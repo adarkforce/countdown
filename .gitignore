@@ -7,7 +7,7 @@
 .firebase
 .eslintcache
 .firebaserc
-
+/launch-countdown-timer-main
 # testing
 /coverage
 
